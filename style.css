@@ -1,0 +1,23 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size:cover;
+    background-repeat:cover;
+    background-color: aqua;
+    color: #11ad4d;
+    font-size: 'Press Start 2P', cursive;
+}
+
+#titulo{
+letter-spacing: 3px;
+font-weight: 600;
+color: #75ddb2;
+}
+
+.canvas{
+    margin-bottom: 50px;
+}
